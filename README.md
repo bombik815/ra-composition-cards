@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/prmbdbmhiml4rama/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-composition-cards/branch/main)
 
 [Карточки](https://bombik815.github.io/ra-composition-cards/)
 
